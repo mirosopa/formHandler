@@ -1,4 +1,5 @@
 package main
+// Just a test comment
 
 import (
 	"fmt"
